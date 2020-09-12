@@ -1,4 +1,7 @@
-### Hi there 👋
+
+### Me chamo Ana Helena!
+### Atualmente estou aprendendo a desenvolver sistemas.
+
 
 <!--
 **AnaVerceloni/AnaVerceloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
